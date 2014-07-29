@@ -1,12 +1,7 @@
-## react\-bootstrap\-forms
+## react-bootstrap-forms
 #### Bootstrap form components for React with support for validations.
 
 ### Installation
 ```bash
-npm install react\-bootstrap\-forms
-```
-
-### Testing
-```bash
-npm test
+npm install react-bootstrap-forms
 ```
